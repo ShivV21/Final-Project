@@ -1,4 +1,4 @@
 # Final-Project
-To run project 
+Step 1 To run project 
 install node_modules (npm install react-bootstrap bootstrap)
-run project(npm start in terminal)
+Step 2run project(npm start in terminal)
